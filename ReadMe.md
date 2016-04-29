@@ -1,3 +1,13 @@
+Nanopass Has Moved
+===================
+The Nanopass framework for Scheme has moved to its own github group. This one will no longer get updates. You can find the new repo here:
+
+https://github.com/nanopass/nanopass-framework-scheme
+
+Additional information can be found at the nanopass website:
+
+http://nanopass.org
+
 Nanopass Compiler Library
 ==========================
 
