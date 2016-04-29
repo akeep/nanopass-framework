@@ -4,6 +4,10 @@ The Nanopass framework for Scheme has moved to its own github group. This one wi
 
 https://github.com/nanopass/nanopass-framework-scheme
 
+There is also a port of this project to Racket, which you can find at:
+
+https://github.com/nanopass/nanopass-framework-racket
+
 Additional information can be found at the nanopass website:
 
 http://nanopass.org
